@@ -1,2 +1,2 @@
 # wasm_snake
-wasm_rust
+program rust yang menggunakan alat wasmbindgen
