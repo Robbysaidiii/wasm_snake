@@ -1,2 +1,2 @@
 # wasm_snake
-rust
+wasm_rust
